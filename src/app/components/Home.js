@@ -11,7 +11,7 @@ export default function LandingPage(){
             </div>
 
             
-            <img className="w-1/2 hidden lg:block" src="cs.jpeg"/>
+            <img className="w-1/2 hidden lg:block" src="Stay.jpeg"/>
             
         </div>
     )
